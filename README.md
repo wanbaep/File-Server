@@ -12,10 +12,10 @@
 
 ### application.properties
 ```
-application.database.driver-class-name="Database Driver Name"
-application.database.url="Database URL"
-application.database.username="Database User"
-application.database.password="Database Pass"
-application.file.basedir="Image Upload base directory"
-application.file.maximum="Maximum File Size to be Upload"
+application.database.driver-class-name="DATABASE DRIVER NAME"
+application.database.url="DATABASE URL"
+application.database.username="DATABASE USER"
+application.database.password="DATABASE PASS"
+application.file.basedir="IMAGE UPLOAD BASE DIRECTORY"
+application.file.maximum="MAXIMUM FILE SIZE TO BE UPLOAD"
 ```
